@@ -1,3 +1,4 @@
+import java.lang;
 import java.util.Arrays;
 
 public class MaxArray {
@@ -6,7 +7,7 @@ public class MaxArray {
         int[] a={2,88,65};
 
         System.out.println(maxi(a));
-        System.out.println("a");
+        System.out.println("b");
         
     }
     static  int maxi(int[] arr) {
