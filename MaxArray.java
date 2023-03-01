@@ -6,6 +6,8 @@ public class MaxArray {
         int[] a={2,88,65};
 
         System.out.println(maxi(a));
+        System.out.println("a");
+        
     }
     static  int maxi(int[] arr) {
        /* int temp;
